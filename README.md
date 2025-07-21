@@ -85,11 +85,3 @@ This project builds a **personalized music recommendation system** using a rich 
 - K-Means and Mini-Batch K-Means clustering
 
 ---
-
-## 👤 Author
-
-**Santhoshi Priya Sunchu**  
-GitHub: [sunchusanthoshi](https://github.com/sunchusanthoshi)
-
----
-
